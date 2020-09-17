@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://federicochiodo.tk/" target="_blank">Federico Chiodo</a> <img
-src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm <a href="https://federicochiodo.tk/" target="_blank">Federico Chiodo</a> </h1>
 <h3 align="center">A passionate Backend developer from Italy</h3>
 
 
