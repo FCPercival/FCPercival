@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## ⛳️ Project Release
 
-- <a href='https://github.com/FCPercival/PingTool/releases' target='_blank'>FCPercival@v1.0</a> - 06-06-2020
+- <a href='https://github.com/FCPercival/PingTool/releases' target='_blank'>PingTool@v1.0</a> - 06-06-2020
 
 <!-- github_plugin_end -->
 
