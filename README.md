@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Secret! :D**
 
+- 💬 Ask me about **Specially Java or Ubuntu**
+
 - 🌱 I’m currently learning **Java, Python, Ubuntu and the world of machine learning**
 
 - 👨‍💻 All of my projects are available at [https://www.federicochiodo.tk](https://www.federicochiodo.tk)
