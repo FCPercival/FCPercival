@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Federico Chiodo<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" /></a></h1>
+<h1 align="center">Hi 👋, I'm Federico Chiodo<a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 <h3 align="center">A passionate Backend developer from Italy</h3>
 
 
