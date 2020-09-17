@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi <img src="https://github.com/FCPercival/blackcater/raw/master/images/Hi.gif" height="32" />, I'm <a href="https://federicochiodo.tk/" target="_blank">Federico Chiodo</a> </h1>
+<h1 align="center">Hi <img src="https://github.com/FCPercival/blackcater/raw/master/images/Hi.gif" height="32" />, I'm <a href="#" target="_blank">Federico Chiodo</a> </h1>
 <h3 align="center">A passionate Backend developer from Italy</h3>
 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Python, Ubuntu and the world of machine learning**
 
-- 👨‍💻 All my projects are available at [**federicochiodo.tk**](https://federicochiodo.tk/)
+- 👨‍💻 All my projects are available at [**#**](https://###/)
 
 - 📫 How to reach me **federicochiodo.it@gmail.com**
 <br>
