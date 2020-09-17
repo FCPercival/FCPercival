@@ -28,18 +28,14 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **federicochiodo.it@gmail.com**
 <br>
+
 <!-- github_plugin_start -->
 
 ## ⛳️ Project Release
 
-- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.1' target='_blank'>blackcater@v1.0.1</a> - 2020-07-22
-- <a href='https://github.com/blackcater/LeetCodeCN-Dark/releases/tag/v1.3.0' target='_blank'>LeetCodeCN-Dark@v1.3.0</a> - 2020-09-10
+- <a href='https://github.com/FCPercival/PingTool/releases' target='_blank'>FCPercival@v1.0</a> - 06-06-2020
 
 <!-- github_plugin_end -->
-
-## ⛳️ Project Release
-
-- <a href='https://github.com/FCPercival/PingTool/releases' target='_blank'>FCPercival@v1.0</a> - 06-06-2020
 
 <br>
 
