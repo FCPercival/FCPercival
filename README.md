@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Python, Ubuntu and the world of machine learning**
 
-- 👨‍💻 All my projects are available at [federicochiodo.tk](https://federicochiodo.tk/)
+- 👨‍💻 All my projects are available at [**federicochiodo.tk**](https://federicochiodo.tk/)
 
 - 📫 How to reach me **federicochiodo.it@gmail.com**
 <br>
