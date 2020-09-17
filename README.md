@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Backend developer from Italy</h3>
 
 
-
+<br>
 <p align="center">
 <a href="https://dev.to/fcpercival" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcpercival" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/federico-vittorio-chiodo-80b20917b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="federico-vittorio-chiodo-80b20917b" height="30" width="30" /></a>
