@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcpercival&show_icons=true" alt="fcpercival" /></p>
+<br>
 
 <p align="center">
 <a href="https://linkedin.com/in/federico-vittorio-chiodo-80b20917b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="federico-vittorio-chiodo-80b20917b" height="30" width="30" /></a>
