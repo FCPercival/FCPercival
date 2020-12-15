@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcpercival&show_icons=true" alt="fcpercival" /></p>
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcpercival&show_icons=true" alt="fcpercival" /></p> -->
 </br>
 
 <!-- github_plugin_start -->
