@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Secret! :D**
 
-- 🌱 I’m currently learning **Java, Python, Ubuntu and the world of machine learning**
+- 🌱 I’m currently learning **Java, Python, Linux and the world of machine learning**
 
 - 👨‍💻 All my projects are available at [**#**](https://###/)
 
