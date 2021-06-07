@@ -25,21 +25,22 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-<a href="https://dev.to/fcpercival" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcpercival" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/federico-vittorio-chiodo-80b20917b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="federico-vittorio-chiodo-80b20917b" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11725655" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11725655" height="30" width="30" /></a>
-<a href="https://instagram.com/federicochiodovittorio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="federicochiodovittorio" height="30" width="30" /></a>
+<a href="https://dev.to/fcpercival" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/federico-vittorio-chiodo-80b20917b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>
+<a href="https://git.cagnolini.tk/FCPercival" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="GitLab" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11725655" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="30" /></a>
+<a href="https://instagram.com/federicochiodovittorio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 </p>
 
 <br>
 
-- 🔭 I’m currently working on **Secret! :D**
+<!-- - 🔭 I’m currently working on **Secret! :D** -->
 
-- 🌱 I’m currently learning **Java, Python, Linux and the world of machine learning**
+- 🌱 I’m currently learning **Java, Python and Virtualization technologies**
 
-- 👨‍💻 All my projects are available at [**#**](https://###/)
+- 👨‍💻 All my projects are available at [**GitLab**](https://git.cagnolini.tk/users/FCPercival/projects)
 
-- 📫 How to reach me **federicochiodo.it@gmail.com**
+- 📫 How to reach me: **federicochiodo.it@gmail.com**
 <br>
 
 <!-- github_plugin_start -->
