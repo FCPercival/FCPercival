@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi <img src="https://github.com/FCPercival/blackcater/raw/master/images/Hi.gif" height="32" />, I'm <a href="https://git.cagnolini.tk/FCPercival" target="_blank">Federico Chiodo</a> </h1>
-<h3 align="center">A passionate Backend developer from Italy</h3>
+<h3 align="center">A passionate Software Developer from Italy</h3>
 
 
 
@@ -61,13 +61,17 @@ Here are some ideas to get you started:
 
 <!-- github_plugin_start -->
 ## 
-<br>
+<!--<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcpercival&layout=compact" alt="fcpercival" /></p>
-</br>
+</br>-->
+<p align="center"><b>Languages or technologies that i use most</b> <br> <br> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/java.png" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/c.png" alt="c++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/linux.png" alt="linux" width="40" height="40"/></p>
+<br>
+
+
 <p align="center"><b>Other languages or technologies that i use </b></p>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/c-programming.png" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/c.png" alt="c++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/css.png" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/html.png" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/java.png" alt="java" width="40" height="40"/> <!--<img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/kube.png" alt="kubernetes" width="40" height="40"/> --><img
-src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/docker.png" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/linux.png" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/python.png" alt="python" width="40" height="40"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/c-programming.png" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/css.png" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/html.png" alt="html5" width="40" height="40"/> <!--<img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/kube.png" alt="kubernetes" width="40" height="40"/> --><img
+src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/docker.png" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/FCPercival/FCPercival/master/icons/python.png" alt="python" width="40" height="40"/></p>
 
 <!-- github_plugin_end -->
 
